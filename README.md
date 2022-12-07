@@ -2,9 +2,9 @@
 Literal Garbage.  Generates fanfictions and donald trump text using ChatGPL. 
 
 ## Commands:
-/fanfiction [char1] [char2]
-/say [text]
-/custom [custom input]
+/fanfiction [char1] [char2] <br>
+/say [text] <br>
+/custom [custom input] <br>
 /refresh
 
 ## To Use:
